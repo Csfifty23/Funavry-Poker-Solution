@@ -8,7 +8,7 @@ This notebook processes images from a Texas Hold'em Poker game and extracts play
 - To efficiently detect only the text sections corresonponding to the palyer name and palyer position i finetune the yolo8m model for the given images using ultralaytics becuase other methods and pretrained       
    models were not effeciently detecting the relevant text portion in images.
 - Therefore i finetuned the yolov8 which is very fast and accurate and was giving the best results.
-- ### Finetuning the Yolo8
+- ### Finetuning the Yolov8
     - To finetune the model on my poker images dataset i labal the images using roboflow.
     - After labeling the data we use ultralaytics and load the anotation file from the roboflow and Yolov8 to fintune the model.
     - After fintunig the model we export it using onnx.

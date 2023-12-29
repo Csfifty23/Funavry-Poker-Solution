@@ -19,6 +19,8 @@ The script uses ultralatics to fintune the yolo8m model for detection of text bo
 - TrOCR (Reference: [TrOCR Documentation](link-to-TrOCR-docs))
 - Yolo8m
 - ultralaytics
+- onnx and onnxruntime
+- supervision
   
 
 ## Files To Run The Notebook

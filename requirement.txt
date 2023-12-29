@@ -1,1 +1,8 @@
+## Following dependencies must be install before running the notebook
+# Please also keep in mind that you must need to restart the session after installing these dependencies otherwise you may face some nasty errors while runing the notebook. If you still face anykind please let me know
+pip install ultralytics 
+pip install onnx onnxruntime
+pip install supervision
+!pip install sentencepiece
+!pip install onnxruntime-gpu
 

@@ -23,8 +23,7 @@ This notebook processes images from a Texas Hold'em Poker game and extracts play
 
 ## Choices and Assumptions
 
-- The script assumes that player names are at the start of the first line, and player positions are at the end of the second line on the player card.
-- TrOCR is the only allowed OCR tool for this task.
+- No spcific assumptions are made
 
 ## Dependencies
 
@@ -37,3 +36,7 @@ This notebook processes images from a Texas Hold'em Poker game and extracts play
 - [Download The Yolo Finetuned Model](https://drive.google.com/drive/folders/1DTx2lXzSr2x2q5kctTdAwAjp6rsyrnhB?usp=sharing)
 - The other file is your image against which you want to evaulate the model. You need these two file for any of your text case and run the notebook with these two external files.
 
+## Improvments 
+- Althoug model is doing very well it may not produce the accurate palyer name and position accordingly. This is because of time constraint i could hardly label 50 images.
+- Now its performance can be made perfect by finetuning on more images.
+- The best part is now we have the pipeline in place and we can acheive the perfection by following the pipeline with more images.

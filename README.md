@@ -37,6 +37,8 @@ This notebook processes images from a Texas Hold'em Poker game and extracts play
 - The other file is your image against which you want to evaulate the model. You need these two file for any of your text case and run the notebook with these two external files.
 
 ## Improvments 
-- Althoug model is doing very well it may not produce the accurate palyer name and position accordingly. This is because of time constraint i could hardly label 50 images.
+- Althoug model is doing very well it may not produce the accurate palyer name and position accordingly.
+- This is not because of the script logic but rahter due to detection model which is only finetuned on 42 images.
+- This is because of time constraint and i could hardly label 42 images.
 - Now its performance can be made perfect by finetuning on more images.
 - The best part is now we have the pipeline in place and we can acheive the perfection by following the pipeline with more images.

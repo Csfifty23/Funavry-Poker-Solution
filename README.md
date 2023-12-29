@@ -24,7 +24,7 @@ This notebook processes images from a Texas Hold'em Poker game and extracts play
 ## Dependencies
 
 - All the dependencises are given in the requirements file.
-- Please also note that you must need to restart the session after installing these dependencies otherwise you may face some nasty errors while runing the notebook.
+- Please also note that you may need to restart the session after installing these dependencies otherwise you may face some nasty errors while runing the notebook.
 - If you still face anykind please let me know.
 
 ## Files To Run The Notebook

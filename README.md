@@ -17,6 +17,9 @@ The script uses ultralatics to fintune the yolo8m model for detection of text bo
 
 - Python 3.x
 - TrOCR (Reference: [TrOCR Documentation](link-to-TrOCR-docs))
+- Yolo8m
+- ultralaytics
+  
 
 ## Installation
 

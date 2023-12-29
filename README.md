@@ -21,5 +21,6 @@ The script uses ultralatics to fintune the yolo8m model for detection of text bo
 - ultralaytics
   
 
-## Installation
+## Files To Run The Notebook
+To run this note book you need two files one is the file of yolo-finetuned model which can be download from the drive link. The other file is your image against which you want to evaulate the model. You have upload the for any of your text case and run the notebook with these two external files.
 

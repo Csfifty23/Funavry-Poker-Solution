@@ -32,7 +32,7 @@ This notebook processes images from a Texas Hold'em Poker game and extracts play
 - If you still face anykind please let me know.
 
 ## Files To Run The Notebook
-- To run this note book you need two files one is the file of yolo-finetuned model which can be download from the drive following drive link.
+- To run this note book you need two files one is the file of yolo-finetuned model which can be availble from the drive or can be download from the drive using following drive link.
 - [Download The Yolo Finetuned Model](https://drive.google.com/drive/folders/1DTx2lXzSr2x2q5kctTdAwAjp6rsyrnhB?usp=sharing)
 - The other file is your image against which you want to evaulate the model. You need these two file for any of your text case and run the notebook with these two external files.
 

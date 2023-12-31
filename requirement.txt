@@ -3,6 +3,5 @@
 pip install ultralytics 
 pip install onnx onnxruntime
 pip install supervision
-!pip install sentencepiece
 !pip install onnxruntime-gpu
 
